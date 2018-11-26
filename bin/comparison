@@ -1,0 +1,5 @@
+#!/bin/bash
+
+DATA=$(<$1)
+
+npm run cli --silent -- "$DATA"
