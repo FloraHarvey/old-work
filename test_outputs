@@ -1,0 +1,128 @@
+extra-energy,SaverPlus Fixed Price Sept 2015 v1,373.39
+edf,Blue+Price Promise February 2016,395.56
+flow-energy,Thames Online Fixed September 2015,404.17
+ecotricity,Green Electricity,415
+telecom-plus,Value,422.25
+e-dot-on,E.ON Energy Fixed 2 Year v5,451.83
+marksandspencers,M&S Energy Fix & Save 2,453.47
+e-dot-on,Age UK Fixed 2 Year v2,455.7
+loco,Pocket Fixed 10,474.32
+telecom-plus,Double Gold,476.54
+extra-energy,PowerPlus September 2015 v1,487.03
+edf,Standard (Variable),503.32
+british-gas,Standard,512.26
+telecom-plus,Double Gold Fixed Price 1,512.64
+loco,Planet,521.08
+southern-electric,Fixed Price Mar 17,523.31
+southern-electric,Standard,524.87
+british-gas,Fixed Price January 2017,530.66
+edf,Blue+Price Freeeeze July 2017,533.26
+npower,Price Fix June 2016,533.8
+ovo,Cheaper Energy Fixed,535.45
+green-energy-uk,Sparkling,541.05
+ovo,Better Energy Fixed,550.19
+scottishpower,Online Fixed Price Energy September 2015,550.84
+ebico,EquiPower,554.65
+ovo,Cheaper Energy (Fixed to June 2016),557.22
+npower,Online Price Fix October 2015,562.37
+e-dot-on,E.ON Energy Plan,563.56
+loco,Pocket Fixed March 2017,567.33
+woodlandtrust,Greener Energy,568.74
+good-energy,Good Energy (Electricity Only),571.23
+the-co-operative,Fixed - May 2016,576.33
+extra-energy,Variable Price v1,589.59
+ovo,Greener Energy Fixed,597.04
+the-co-operative,Fixed - March 2017,597.43
+pioneer,Rate Wise Variable,605.81
+ovo,Greener Energy Fixed (Online),607.4
+first-utility,iSave Fixed September 2015 (v27) Electricity only,609.87
+ovo,Better Energy (Fixed to June 2016),610.33
+pioneer,Rate Saver 36M Fixed 1408,647.9
+isupplyenergy,iFix 201509,697.8
+woodlandtrust,Better Energy,741.84
+pioneer,Rate Saver 12M Fixed 1408,761.95
+loco,Pocket,783.62
+e-dot-on,E.ON Energy Fixed 1 Year v7,805.44
+pioneer,Rate Saver 24M Fixed 1408,815.06
+southern-electric,1 Year Fixed Price,831
+the-co-operative,Pioneer - DD,868.9
+marksandspencers,M&S Energy Standard Energy,882.7
+first-utility,iSave Fixed October 2016 (v28) Electricity only,889.98
+scottishpower,Help Beat Cancer Fixed Price Energy September 2016 online,893.58
+sainsburys,Standard,902.91
+first-utility,iSave Fixed September 2017 (v22) (Electricity only),910.4
+scottishpower,Online Standard,913.16
+green-energy-uk,Still,957.29
+telecom-plus,Gold,965.58
+first-utility,iSave Everyday v2 Electricity Only,995.58
+npower,Standard,1024.81
+spark-energy,Direct Debit Saver,1132.58
+extra-energy,SaverPlus Fixed Price Sept 2015 v1,622.82
+flow-energy,Thames Online Fixed September 2015,670.99
+edf,Blue+Price Promise February 2016,679.06
+ecotricity,Green Electricity,727
+telecom-plus,Value,753
+marksandspencers,M&S Energy Fix & Save 2,787.9
+telecom-plus,Double Gold,807.29
+extra-energy,PowerPlus September 2015 v1,810.28
+edf,Standard (Variable),816.75
+e-dot-on,Age UK Fixed 2 Year v2,817.95
+e-dot-on,E.ON Energy Fixed 2 Year v5,821.96
+loco,Pocket Fixed 10,849.69
+telecom-plus,Double Gold Fixed Price 1,867.65
+british-gas,Standard,867.69
+green-energy-uk,Sparkling,878.1
+edf,Blue+Price Freeeeze July 2017,882.39
+npower,Price Fix June 2016,890.8
+npower,Online Price Fix October 2015,892.07
+scottishpower,Online Fixed Price Energy September 2015,900.44
+extra-energy,Variable Price v1,909.32
+southern-electric,Fixed Price Mar 17,914.96
+southern-electric,Standard,916.52
+e-dot-on,E.ON Energy Plan,925.81
+ovo,Cheaper Energy Fixed,926.57
+british-gas,Fixed Price January 2017,932.81
+ovo,Better Energy Fixed,941.31
+loco,Planet,942.13
+ebico,EquiPower,946.3
+loco,Pocket Fixed March 2017,973.68
+the-co-operative,Fixed - May 2016,976.9
+ovo,Cheaper Energy (Fixed to June 2016),999.27
+good-energy,Good Energy (Electricity Only),1003.31
+pioneer,Rate Wise Variable,1013.52
+the-co-operative,Fixed - March 2017,1018.27
+woodlandtrust,Greener Energy,1018.67
+ovo,Greener Energy Fixed,1046.97
+ovo,Better Energy (Fixed to June 2016),1052.38
+ovo,Greener Energy Fixed (Online),1057.32
+pioneer,Rate Saver 36M Fixed 1408,1113.31
+first-utility,iSave Fixed September 2015 (v27) Electricity only,1116.39
+isupplyenergy,iFix 201509,1315.3
+pioneer,Rate Saver 12M Fixed 1408,1373.63
+woodlandtrust,Better Energy,1378.66
+loco,Pocket,1482.92
+pioneer,Rate Saver 24M Fixed 1408,1499.82
+e-dot-on,E.ON Energy Fixed 1 Year v7,1550.94
+southern-electric,1 Year Fixed Price,1608
+the-co-operative,Pioneer - DD,1664.8
+scottishpower,Help Beat Cancer Fixed Price Energy September 2016 online,1687.17
+marksandspencers,M&S Energy Standard Energy,1705.38
+sainsburys,Standard,1710.88
+first-utility,iSave Fixed October 2016 (v28) Electricity only,1710.98
+scottishpower,Online Standard,1726.33
+first-utility,iSave Fixed September 2017 (v22) (Electricity only),1751.4
+green-energy-uk,Still,1845.59
+telecom-plus,Gold,1878.66
+first-utility,iSave Everyday v2 Electricity Only,1985.26
+npower,Standard,2002.36
+spark-energy,Direct Debit Saver,2211.51
+Invalid command, please use one of the following available commands:
+
+exit
+price ANNUAL_USAGE
+usage SUPPLIER_NAME PLAN_NAME SPEND
+Invalid command, please use one of the following available commands:
+
+exit
+price ANNUAL_USAGE
+usage SUPPLIER_NAME PLAN_NAME SPEND
